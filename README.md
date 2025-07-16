@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @nwpuMrBean, master student majoring Fluid Dynamics in Northwestern Polytechinal University.
 - 👀 I’m interested in CFD, especially High-order method.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me： tangmingze@nwppu.edu.cn
 
-<!---
-nwpuMrBean/nwpuMrBean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
